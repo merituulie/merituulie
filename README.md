@@ -4,7 +4,7 @@ I am a software developer currently developing a PSA web service, passionate abo
 ## Top Tech
 | Skills | Top languages |
 | --------------- | --------------- |
-| ![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,c,azure-light,bash-light,docker) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merituulie) |
+| ![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,c,docker,azure-light,bash-light) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merituulie) |
 
 ## Experience
 ### Software Developer at Visma Solutions, Helsinki - Current employment
