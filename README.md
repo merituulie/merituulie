@@ -1,10 +1,10 @@
+## ⭐️ About Me
+I am a software developer currently developing a PSA web service, passionate about game AI with a bachelor's degree in Business Information Technology and a minor in Games Programming. Currently finishing extra studies at Hive Helsinki to be the best coder ever.
+
 ## Top Tech
 | Skills | Top languages |
 | --------------- | --------------- |
 | [![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,c,cmake-dark,azure-dark,bash-dark)](https://skillicons.dev) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merituulie) |
-
-## Profile
-I am a software developer currently developing a PSA web service, passionate about game AI with a bachelor's degree in Business Information Technology and a minor in Games Programming. Currently finishing extra studies at Hive Helsinki to be the best coder ever.
 
 ## Experience
 ### Software Developer at Visma Solutions, Helsinki - Current employment
