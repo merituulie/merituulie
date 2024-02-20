@@ -1,19 +1,14 @@
-# MERI ESKELINEN
-## SOFTWARE DEVELOPER
-### Helsinki, Finland
-### [LinkedIn](https://www.linkedin.com/in/meri-eskelinen)
-
-## TOP TECH
+## Tech
 [![My Skills](https://skillicons.dev/icons?i=csharp,cppp,net,sql,c,scrum,make)](https://skillicons.dev)
 
-## PROFILE
+## Profile
 I am a software developer currently developing a PSA web service, passionate about game AI with a bachelor's degree in Business Information Technology and a minor in Games Programming. Currently finishing extra studies at Hive Helsinki to be the best coder ever.
 
-## EXPERIENCE
+## Experience
 ### Software Developer at Visma Solutions, Helsinki - Current employment
 Developing a Rest API in C#. My responsibilities include everything back-end related from database maintenance to unit testing to debugging to designing and creating new features within the continuous delivery pipeline while contributing to scalable, maintainable code.
 
-## EDUCATION AND STUDIES 🎓
+## Education and studies 🎓
 **Software Engineering, Hive Helsinki**
 Studies involve deep dive into C and C++ programming. The studies started with building a custom standard library, and have since progressed to creating my very own bash, as well as a ray-caster from scratch.
 
@@ -22,5 +17,3 @@ This minor focused on game algorithms, computer graphics, C++, and concluded wit
 
 **Business Information Technology, Haaga-Helia University of Applied Sciences, Helsinki**
 The studies combined practical IT skills, enhanced teamwork, communication and self-reliance. I majored in OO-programming, server operations, and database design.
-
-
