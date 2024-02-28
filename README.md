@@ -1,10 +1,16 @@
 ## ⭐️ About Me
-I am a software developer currently developing a PSA web service, passionate about game AI with a bachelor's degree in Business Information Technology and a minor in Games Programming. Currently finishing extra studies at Hive Helsinki to be the best coder ever.
+I am a software developer currently developing a PSA web service, passionate about Game AI with a bachelor's degree in Business Information Technology and a minor in Games Programming 🎮 Currently finishing extra curricular studies at Hive Helsinki to be the best coder ever.
 
 ## Top Tech
 | Skills | Top languages |
 | --------------- | --------------- |
 | ![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,c,docker,azure-light,bash-light) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merituulie) |
+
+## 🖱️Projects I'm proud of
+[webserv](https://github.com/merituulie/webserv) 🛜 An HTTP server for serving a static websites with dynamic content through CGI scripts, and supporting HTTP methods GET, POST, and DELETE.
+[Game AI](https://github.com/merituulie/JohnnyCastaway) 🌴 A small Game AI simulation of the good ol' Johnny Castaway screensaver.
+[philosophers](https://github.com/merituulie/philisophers) 🧵A classic Dining philosophers problem solved with a multithreaded program.
+[Cub3D](https://github.com/merituulie/cub3d) 🕹️ A raycaster based game project.
 
 ## Experience
 ### Software Developer at Visma Solutions, Helsinki - Current employment
