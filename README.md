@@ -5,7 +5,6 @@ I am a software developer currently developing a PSA web service, passionate abo
 | Skills |
 | --------------- |
 | ![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,c,docker,azure-light,bash-light) |
-| Top languages |
 | --------------- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merituulie) |
 
