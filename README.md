@@ -9,9 +9,9 @@ I am a software developer currently developing a PSA web service, passionate abo
 ## 🖱️Projects I'm proud of
 | Name | | Description |
 | --------------- | --------------- | --------------- |
-|[webserv](https://github.com/merituulie/webserv) | 🛜 | An HTTP server for serving a static websites with dynamic content through CGI scripts, and supporting HTTP methods GET, POST, and DELETE.|
+|[Webserver](https://github.com/merituulie/webserv) | 🛜 | An HTTP server for serving a static websites with dynamic content through CGI scripts, and supporting HTTP methods GET, POST, and DELETE.|
 |[Game AI](https://github.com/merituulie/JohnnyCastaway) | 🌴 | A small Game AI simulation of the good ol' Johnny Castaway screensaver.|
-|[philosophers](https://github.com/merituulie/philisophers) | 🧵 | A classic Dining philosophers problem solved with a multithreaded program.|
+|[Philosophers](https://github.com/merituulie/philisophers) | 🧵 | A classic Dining philosophers problem solved with a multithreaded program.|
 |[Cub3D](https://github.com/merituulie/cub3d) | 🕹️ | A raycaster based game project.|
 
 
