@@ -3,10 +3,12 @@ I am a software developer currently developing a PSA web service, passionate abo
 
 <h2>Top Tech</h2>
 <p style="text-align: center;">
+
 | Skills |
 | :---------------: |
 | ![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,c,docker,azure-light,bash-light) |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merituulie) |</p>
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merituulie) |
+</p>
 
 <h2>🖱️Projects I've working on lately</h2>
 | Name | | Description |
