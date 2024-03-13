@@ -1,8 +1,8 @@
 <h2>⭐️ About Me</h2>
-🏢 A software developer currently developing a Professional Services Automation\
-🤩 Passionate about Game AI\
-🏫 A Bachelor's degree in Business Information Technology and a minor in Games Programming\
-🎮 Currently finishing extra curricular studies at Hive Helsinki to be the best coder ever.\
+🏢 A software developer currently developing a Professional Services Automation<br>
+🤩 Passionate about Game AI<br>
+🏫 A Bachelor's degree in Business Information Technology and a minor in Games Programming<br>
+🎮 Currently finishing extra curricular studies at Hive Helsinki to be the best coder ever.<br>
 
 <h2></h2>
 <div align="center">
