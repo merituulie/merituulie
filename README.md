@@ -1,7 +1,10 @@
 <h2>⭐️ About Me</h2>
 🏢 A software developer currently developing a Professional Services Automation
+
 🤩 Passionate about Game AI
+
 🏫 A Bachelor's degree in Business Information Technology and a minor in Games Programming
+
 🎮 Currently finishing extra curricular studies at Hive Helsinki to be the best coder ever.
 
 <h2></h2>
