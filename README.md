@@ -6,7 +6,7 @@ I am a software developer currently developing a Professional Services Automatio
 
 | Top Tech |
 | :---------------: |
-| ![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,c,docker,azure-light,bash-light,bash,linux) |
+| ![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,c,docker,linux) |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merituulie) |
 </div>
 
