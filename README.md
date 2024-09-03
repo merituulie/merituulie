@@ -9,7 +9,7 @@
 
 | Top Tech |
 | :---------------: |
-| ![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,c,docker,linux,azure,python) |
+| ![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,git,c,docker,linux,amazon,python) |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merituulie) |
 </div>
 
