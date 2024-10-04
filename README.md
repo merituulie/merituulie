@@ -1,8 +1,7 @@
 <h2>⭐️ About Me</h2>
-🏢 A software developer currently developing a Professional Services Automation<br>
+🏢 A coder and DevOps currently developing Rest API invoicing product powered by AI<br>
 🤩 Passionate about Game AI<br>
-🏫 A Bachelor's degree in Business Information Technology and a minor in Games Programming<br>
-🎮 Currently finishing extra curricular studies at Hive Helsinki to be the best coder ever.<br>
+🏫 A Bachelor's degree in Business Information Technology, Hive Alumni and a minor in Games Programming<br>
 
 <h2></h2>
 <div align="center">
