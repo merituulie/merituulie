@@ -1,7 +1,7 @@
 <h2>⭐️ About Me</h2>
-🏢 A coder and DevOps currently developing Rest API invoicing product powered by AI<br>
+🏢 A developer currently developing a purchase invoicing tool powered by AI<br>
 🤩 Passionate about Game AI<br>
-🏫 A Bachelor's degree in Business Information Technology, Hive Alumni and a minor in Games Programming<br>
+🏫 A Bachelor's degree in Business Information Technology, a Hive Alumni and a minor in Games Programming<br>
 
 <h2></h2>
 <div align="center">
