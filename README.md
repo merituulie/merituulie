@@ -12,7 +12,7 @@
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merituulie) |
 </div>
 
-<h2>🖱️The latest personal projects I've worked on</h2>
+<h2>🖱️Personal projects</h2>
 
 | Name | | Description |
 | :---------------: | :---------------: | --------------- |
